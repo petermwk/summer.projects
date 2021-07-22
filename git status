@@ -1,0 +1,78 @@
+[33mcommit d17128fc37b0eb8645443e89a2624f22c800acbe[m[33m ([m[1;36mHEAD -> [m[1;32mprogramming-java[m[33m, [m[1;31morigin/programming-java[m[33m)[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Wed Jul 7 12:27:22 2021 +0300
+
+    asd removed
+
+[33mcommit 4b49a18a724015cf10e352c4b2bb4b8ad17fbb5d[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Wed Jul 7 12:25:50 2021 +0300
+
+    FirstApp added
+
+[33mcommit c1f2d6baa09cb7302de894da789bf7526f3271ea[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Wed Jul 7 12:22:33 2021 +0300
+
+    REMOVED
+
+[33mcommit 3adf3f7566c93a918f250d4de7c67e656bc014b4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ivan Gargov <ivan.gargov@telelink.com>
+Date:   Tue Jul 6 13:25:31 2021 +0300
+
+    add number of pages task
+
+[33mcommit 411f80d945675c675b1942f4f6e8adee14efdd47[m
+Merge: 4aea000 4d69dd7
+Author: Ivan Gargov <ivan.gargov@telelink.com>
+Date:   Tue Jul 6 13:24:58 2021 +0300
+
+    Merge branch 'main' of https://github.com/petermwk/summer.projects into main
+
+[33mcommit 4d69dd7240359cfba8aad141447b67ece48751f2[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Tue Jul 6 13:01:51 2021 +0300
+
+    remove TempSensor
+
+[33mcommit fef69d935e737eb624f62ee8f873e417d03687d7[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Tue Jul 6 12:58:00 2021 +0300
+
+    add array15
+
+[33mcommit 82c2b2600ba29e8687ddbfa9219a17c5d5c85916[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Tue Jul 6 12:51:00 2021 +0300
+
+    rm asd2
+
+[33mcommit 459b87eda835b0fe8347d065790f471a73563bde[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Tue Jul 6 12:33:33 2021 +0300
+
+    add Array14
+
+[33mcommit 8260024ebd0fd4c96fa55d3112b3f767dfc38baf[m
+Author: Peter Malinowski <petermalinowski26@gmail.com>
+Date:   Tue Jul 6 11:55:02 2021 +0300
+
+    test
+
+[33mcommit 4aea000cfc23be9a16e2078b53888131c9e0e349[m
+Author: Ivan Gargov <ivan.gargov@telelink.com>
+Date:   Tue Jul 6 11:36:18 2021 +0300
+
+    add test file
+
+[33mcommit 31cfa1b5c0aa43cc0fe86a49945a477ba8c3bbff[m
+Author: petermwk <87004943+petermwk@users.noreply.github.com>
+Date:   Tue Jul 6 10:32:16 2021 +0300
+
+    Add files via upload
+
+[33mcommit 131663d5c18441307fea3891e719c700a8465332[m
+Author: petermwk <87004943+petermwk@users.noreply.github.com>
+Date:   Tue Jul 6 10:26:43 2021 +0300
+
+    Initial commit
